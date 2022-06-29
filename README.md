@@ -159,3 +159,6 @@ So, to recap, here are 5 ways we can subset a data frame in R:
 That’s it! Happy subsetting!
 Source: https://www.r-bloggers.com/5-ways-to-subset-a-data-frame-in-r/
 
+The additional resource and lecture materials are attached below:
+https://drive.google.com/drive/folders/1eFf7itS2X3tQY2Q9iZ4Pz89GeL61RiRE
+
